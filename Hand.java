@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 public class Hand
 {
+    foo
     private ArrayList<Card> cards;
     private int value;
     public Hand(){  // Creates an arrayList to store the hand in 
